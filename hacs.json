@@ -1,0 +1,8 @@
+{
+  "name": "Tempest",
+  "content_in_root": false,
+  "domain": "tempest",
+  "country": "any",
+  "homeassistant": "2025.0.0"
+}
+

@@ -1,0 +1,11 @@
+{
+  "domain": "tempest",
+  "name": "Tempest",
+  "documentation": "",
+  "issue_tracker": "",
+  "version": "0.0.1",
+  "requirements": [],
+  "codeowners": ["@tabonx"],
+  "iot_class": "local_polling"
+}
+
